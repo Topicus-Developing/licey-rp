@@ -1,0 +1,8 @@
+{
+  "appId": "ru.licey.rp",
+  "appName": "Licey RP",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
